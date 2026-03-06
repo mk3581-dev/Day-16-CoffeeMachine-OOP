@@ -92,5 +92,6 @@ Inspired by the 100 Days of Python course by Dr. Angela Yu.
 Built with the intention of learning OOP through practice and debugging.
 
 🧑‍💻 Author
-Mohit
+Mohit Kunwar
+
 Learning Python, OOP, and DSA step by step 🚀
