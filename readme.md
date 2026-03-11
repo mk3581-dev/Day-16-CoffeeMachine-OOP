@@ -16,7 +16,7 @@ This project is part of learning **OOP concepts through hands-on implementation*
 - Turn off the machine anytime
 - Clean separation of responsibilities using OOP
 
----
+--
 
 ## 🧠 OOP Concepts Used
 
@@ -95,3 +95,4 @@ Built with the intention of learning OOP through practice and debugging.
 Mohit Kunwar
 
 Learning Python, OOP, and DSA step by step 🚀
+
